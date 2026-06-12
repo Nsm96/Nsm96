@@ -1,7 +1,7 @@
-<h1 align="center">¡Hola! Soy Nico Serrano 👋</h1>
+<h1 align="center">¡Hola! Soy Nicolás Serrano 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=560&lines=Desarrollador+web+en+formaci%C3%B3n;Frontend+%7C+JavaScript+%7C+React+%7C+Next.js;Estudiante+de+DAW" alt="Animación de escritura" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=560&lines=Desarrollador+web+en+formaci%C3%B3n;Frontend+%7C+JavaScript+%7C+Java+;Estudiante+de+DAW" alt="Animación de escritura" />
 </p>
 
 Desarrollador web en formación, estudiante de DAW.
