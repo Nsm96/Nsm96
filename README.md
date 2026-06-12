@@ -36,12 +36,12 @@ Desarrollador web en formación, estudiante de DAW.
 ## 📊 Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nsm96&show_icons=true&theme=tokyonight" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nsm96&layout=compact&theme=tokyonight" height="170" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Nsm96&show_icons=true&theme=tokyonight" />
+  <img width="37%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nsm96&layout=compact&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Nsm96&theme=tokyonight" height="170" />
+  <img width="60%" src="https://streak-stats.demolab.com?user=Nsm96&theme=tokyonight" />
 </p>
 
 ## Contacto
