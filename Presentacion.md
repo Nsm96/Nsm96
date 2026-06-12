@@ -1,6 +1,10 @@
-# ¡Hola! Soy Nico Serrano 👋
+<h1 align="center">¡Hola! Soy Nico Serrano 👋</h1>
 
-Desarrollador web en formación, estudiante de DAW y enfocado en frontend, JavaScript, React y Next.js.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=560&lines=Desarrollador+web+en+formaci%C3%B3n;Frontend+%7C+JavaScript+%7C+React+%7C+Next.js;Estudiante+de+DAW" alt="Animación de escritura" />
+</p>
+
+Desarrollador web en formación, estudiante de DAW.
 
 ## Sobre mí
 
@@ -8,7 +12,7 @@ Desarrollador web en formación, estudiante de DAW y enfocado en frontend, JavaS
 - 🎓 Estudio Desarrollo de Aplicaciones Web (DAW).
 - 💻 Me interesa el desarrollo full-stack, aunque disfruto especialmente el frontend.
 - 🛠️ También tengo experiencia en soporte técnico y resolución de incidencias.
-- 🌙 Compagino estudios con trabajo en turno de noche.
+- 🌙 Compagino estudios con trabajo como técnico informático. (Help Desk multinivel)
 
 ## Tecnologías
 
@@ -23,31 +27,22 @@ Desarrollador web en formación, estudiante de DAW y enfocado en frontend, JavaS
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1F2937?style=for-the-badge&logo=postgresql&logoColor=336791)
 ![Git](https://img.shields.io/badge/Git-2D2D2D?style=for-the-badge&logo=git&logoColor=F05032)
 
-## Proyectos destacados
-
-### 1. Proyecto Portfolio / Web personal
-Breve descripción de lo que hace el proyecto, qué tecnologías usaste y qué aprendiste.
-
-**Stack:** HTML, CSS, JavaScript, Python 
-[Repositorio](https://github.com/TU-USUARIO/tu-repo)
-
-### 2. App con React o Next.js
-Proyecto centrado en componentes, routing, consumo de API o diseño responsive.
-
-**Stack:** React, Next.js, Tailwind  
-[Repositorio](https://github.com/TU-USUARIO/tu-repo)
-
-### 3. Proyecto de bases de datos
-Proyecto con modelado, relaciones, consultas SQL, vistas o triggers.
-
-**Stack:** MySQL / PostgreSQL / SQL / MongoDB
-[Repositorio](https://github.com/TU-USUARIO/tu-repo)
-
 ## Actualmente
 - 📚 Aprendiendo más sobre Java, JavaScript y Python
 - 📚 Iniciandome en proyectos con React, Next.js y bases de datos.
 - 🚀 Mejorando mis proyectos para construir un portfolio sólido.
 - 🧩 Interesado en desarrollo web, APIs y buenas prácticas de frontend.
+
+## 📊 Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Nsm96&show_icons=true&theme=tokyonight" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nsm96&layout=compact&theme=tokyonight" height="165" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Nsm96&theme=tokyonight" height="165" />
+</p>
 
 ## Contacto
 
